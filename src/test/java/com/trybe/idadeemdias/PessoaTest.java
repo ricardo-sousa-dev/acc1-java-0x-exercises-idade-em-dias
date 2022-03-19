@@ -1,7 +1,6 @@
 package com.trybe.idadeemdias;
 
 import static org.junit.jupiter.api.Assertions.*;
-import com.trybe.idadeemdias.Pessoa;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
